@@ -1,0 +1,22 @@
+.img_header{
+    height: 5rem;
+    min-width:100% ;
+    border-radius: 1rem;
+    border:solid rgba(245, 164, 102, 0.38) 2px ;
+
+}
+.guess{
+    border: solid #195919 1px;
+    border-radius: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    padding:24px;
+    background-color: darkseagreen;
+    display: inline-block;
+}
+.all{
+    background-image: url("/img/download (1).jpg");
+
+
+}

@@ -1,0 +1,16 @@
+.player{
+    display: block;
+    width: 15rem;
+    height:6rem ;
+    border:solid #329f82;
+    border-radius:1rem ;
+    background-color: rgba(25, 131, 105, 0.39);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:3rem ;
+}
+.all{
+    background-color: rgba(25, 207, 213, 0.47);
+
+
+}
